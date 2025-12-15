@@ -41,7 +41,7 @@
     <terracotta-os-snapshots-url>http://nexus.terracotta.eur.ad.sag/content/repositories/terracotta-os-snapshots</terracotta-os-snapshots-url>
     <terracotta-os-releases-url>http://nexus.terracotta.eur.ad.sag/content/repositories/terracotta-os-releases</terracotta-os-releases-url>
     <slf4j.base.version>1.7.32</slf4j.base.version>
-    <slf4j.range.version>[${slf4j.base.version},1.7.9999)</slf4j.range.version>
+    <slf4j.range.version>[${slf4j.base.version},3)</slf4j.range.version>
     <spotbugs.version>3.1.6</spotbugs.version>
   </properties>
 
